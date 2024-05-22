@@ -9,8 +9,8 @@ This course is designed to help you get started with Docker. We will cover the b
 
 ## Scenarios
 
-|   Index | Name                                       | Difficulty   | URL                                                                       |
-|---------|--------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                      | Difficulty   | URL                                                                       |
+|---------|-------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Your First Docker Lab                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92719'>Start Lab</a>       |
 |      02 | 📖 Accessing and Managing Docker Container | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7770'>Start Lab</a>        |
 |      03 | 📖 Custom Docker Images                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8196'>Start Lab</a>        |
