@@ -9,7 +9,7 @@ This course is designed to help you get started with Docker. We will cover the b
 
 ## Scenarios
 
-|   Index | Name                                      | Difficulty   | URL                                                                       |
+|   Index | Name                                      | Difficulty   | Practice                                                                  |
 |---------|-------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Your First Docker Lab                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92719'>Start Lab</a>       |
 |      02 | 📖 Accessing and Managing Docker Container | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7770'>Start Lab</a>        |
@@ -24,4 +24,9 @@ This course is designed to help you get started with Docker. We will cover the b
 |      11 | 🎯 Package and Run Applications            | ★★☆          | <a target='_blank' href='https://labex.io/labs/16242'>Start Challenge</a> |
 |      12 | 🎯 Map the Container Ports                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16309'>Start Challenge</a> |
 |      13 | 🎯 Docker Network with Compose             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15003'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
