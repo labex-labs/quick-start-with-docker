@@ -1,6 +1,6 @@
 # Quick Start with Docker
 
-![Quick Start with Docker](https://cover-creator.labex.io/quick-start-with-docker.png)
+![Quick Start with Docker](https://cover-creator.appbot.io/quick-start-with-docker.png)
 
 This course is designed to help you get started with Docker. We will cover the basics of Docker, including its architecture, components, and how to use it to build and run containers. 
 
