@@ -16,7 +16,7 @@ This course is designed to help you get started with Docker. We will cover the b
 |      03 | 📖 Custom Docker Images                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8196'>Start Lab</a>        |
 |      04 | 📖 Mastering Docker Network Basics         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8445'>Start Lab</a>        |
 |      05 | 📖 Docker Local Network                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16256'>Start Lab</a>       |
-|      06 | 📖 Managing Data in Containers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8106'>Start Lab</a>        |
+|      06 | 📖 Managing Data in Docker Containers      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8106'>Start Lab</a>        |
 |      07 | 🎯 Connect to Running Container            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15812'>Start Challenge</a> |
 |      08 | 🎯 Docker Volume Management                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7769'>Start Challenge</a>  |
 |      09 | 🎯 File Copy for Containers                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15813'>Start Challenge</a> |
@@ -27,7 +27,7 @@ This course is designed to help you get started with Docker. We will cover the b
 
 ## More
 
-- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 
