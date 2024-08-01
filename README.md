@@ -14,7 +14,7 @@ This course is designed to help you get started with Docker. We will cover the b
 |      01 | 📖 Your First Docker Lab                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92719'>Start Lab</a>       |
 |      02 | 📖 Accessing and Managing Docker Container | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7770'>Start Lab</a>        |
 |      03 | 📖 Custom Docker Images                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8196'>Start Lab</a>        |
-|      04 | 📖 Mastering Docker Network Basics         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8445'>Start Lab</a>        |
+|      04 | 📖 Docker Network Basics                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8445'>Start Lab</a>        |
 |      05 | 📖 Docker Local Network                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16256'>Start Lab</a>       |
 |      06 | 📖 Managing Data in Docker Containers      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8106'>Start Lab</a>        |
 |      07 | 🎯 Connect to Running Container            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15812'>Start Challenge</a> |
