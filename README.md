@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                 | Difficulty   | Practice                                                                                                                 |
-|---------|--------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                | Difficulty   | Practice                                                                                                                 |
+|---------|-------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Docker Lab             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-your-first-docker-lab-92719'>Start Lab</a>                    |
 |      02 | 🎯 Run Your First Container          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-run-your-first-container-388943'>Start Challenge</a>          |
 |      03 | 📖 Working with Docker Images        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/docker-working-with-docker-images-388939'>Start Lab</a>              |
