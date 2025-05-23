@@ -29,28 +29,28 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                              | Difficulté   | Pratique                                                                                                                      |
-|---------|--------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Votre premier laboratoire Docker              | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-your-first-docker-lab-92719'>Commencer le Lab</a>               |
-|      02 | 🎯 Exécutez votre premier conteneur              | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-run-your-first-container-388943'>Commencer le Défi</a>          |
-|      03 | 📖 Manipulation des images Docker                | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-working-with-docker-images-388939'>Commencer le Lab</a>         |
-|      04 | 🎯 Faire parler la baleine Docker                | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-make-a-docker-whale-speak-388948'>Commencer le Défi</a>         |
-|      05 | 📖 Plonger plus profondément dans les conteneurs | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-diving-deeper-into-containers-388951'>Commencer le Lab</a>      |
-|      06 | 📖 Paramètres de la commande Docker Run          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-run-command-parameters-389228'>Commencer le Lab</a>      |
-|      07 | 🎯 Accéder et gérer les conteneurs               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-access-and-manage-containers-389192'>Commencer le Défi</a>      |
-|      08 | 📖 Images Docker personnalisées                  | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-custom-docker-images-389185'>Commencer le Lab</a>               |
-|      09 | 🎯 Personnaliser la langue de la baleine Docker  | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-customize-docker-whale-s-language-389015'>Commencer le Défi</a> |
-|      10 | 📖 Techniques avancées du Dockerfile             | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-advanced-dockerfile-techniques-389027'>Commencer le Lab</a>     |
-|      11 | 🎯 Des bases aux builds multi-étapes             | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-from-basics-to-multi-stage-builds-389193'>Commencer le Défi</a> |
-|      12 | 📖 Les bases du réseau Docker                    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-networking-basics-389048'>Commencer le Lab</a>           |
-|      13 | 📖 Plongez dans le réseau Docker                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-dive-into-docker-networking-389047'>Commencer le Lab</a>        |
-|      14 | 🎯 Terrain de jeu pour le réseau Docker          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-network-playground-389054'>Commencer le Défi</a>         |
-|      15 | 📖 Travailler avec les volumes Docker            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-working-with-docker-volumes-389189'>Commencer le Lab</a>        |
-|      16 | 🎯 Montage de volumes Docker                     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-volume-mounting-389116'>Commencer le Défi</a>            |
+|   Index | Nom                                              | Difficulté    | Pratique                                                                                                                      |
+|---------|--------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Votre premier laboratoire Docker              | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/docker-your-first-docker-lab-92719'>Commencer le Lab</a>               |
+|      02 | 🎯 Exécutez votre premier conteneur              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-run-your-first-container-388943'>Commencer le Défi</a>          |
+|      03 | 📖 Manipulation des images Docker                | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-working-with-docker-images-388939'>Commencer le Lab</a>         |
+|      04 | 🎯 Faire parler la baleine Docker                | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-make-a-docker-whale-speak-388948'>Commencer le Défi</a>         |
+|      05 | 📖 Plonger plus profondément dans les conteneurs | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-diving-deeper-into-containers-388951'>Commencer le Lab</a>      |
+|      06 | 📖 Paramètres de la commande Docker Run          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-run-command-parameters-389228'>Commencer le Lab</a>      |
+|      07 | 🎯 Accéder et gérer les conteneurs               | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-access-and-manage-containers-389192'>Commencer le Défi</a>      |
+|      08 | 📖 Images Docker personnalisées                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-custom-docker-images-389185'>Commencer le Lab</a>               |
+|      09 | 🎯 Personnaliser la langue de la baleine Docker  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-customize-docker-whale-s-language-389015'>Commencer le Défi</a> |
+|      10 | 📖 Techniques avancées du Dockerfile             | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-advanced-dockerfile-techniques-389027'>Commencer le Lab</a>     |
+|      11 | 🎯 Des bases aux builds multi-étapes             | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-from-basics-to-multi-stage-builds-389193'>Commencer le Défi</a> |
+|      12 | 📖 Les bases du réseau Docker                    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-networking-basics-389048'>Commencer le Lab</a>           |
+|      13 | 📖 Plongez dans le réseau Docker                 | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-dive-into-docker-networking-389047'>Commencer le Lab</a>        |
+|      14 | 🎯 Terrain de jeu pour le réseau Docker          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-network-playground-389054'>Commencer le Défi</a>         |
+|      15 | 📖 Travailler avec les volumes Docker            | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-working-with-docker-volumes-389189'>Commencer le Lab</a>        |
+|      16 | 🎯 Montage de volumes Docker                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/docker-docker-volume-mounting-389116'>Commencer le Défi</a>            |
 
 ## Plus
 
-- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- 🔗 [Docker Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Docker Tutoriels Gratuits](https://github.com/labex-labs/docker-free-tutorials)
 
