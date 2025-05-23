@@ -31,26 +31,26 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                       | 難易度   | 練習                                                                                                                         |
 |----------------|--------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 あなたの初めての Docker 実験            | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-your-first-docker-lab-92719'>ラボを開始</a>                    |
-|             02 | 🎯 最初のコンテナを実行する                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-run-your-first-container-388943'>チャレンジを開始</a>          |
-|             03 | 📖 Docker イメージの操作方法               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-working-with-docker-images-388939'>ラボを開始</a>              |
-|             04 | 🎯 Docker のクジラに話させる               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-make-a-docker-whale-speak-388948'>チャレンジを開始</a>         |
-|             05 | 📖 コンテナに関する詳細な考察              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-diving-deeper-into-containers-388951'>ラボを開始</a>           |
-|             06 | 📖 Docker Run コマンドのパラメータ         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-run-command-parameters-389228'>ラボを開始</a>           |
-|             07 | 🎯 コンテナのアクセスと管理                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-access-and-manage-containers-389192'>チャレンジを開始</a>      |
-|             08 | 📖 カスタム Docker イメージ                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-custom-docker-images-389185'>ラボを開始</a>                    |
-|             09 | 🎯 Docker のクジラの言語をカスタマイズする | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-customize-docker-whale-s-language-389015'>チャレンジを開始</a> |
-|             10 | 📖 高度な Dockerfile の技術                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-advanced-dockerfile-techniques-389027'>ラボを開始</a>          |
-|             11 | 🎯 基本からマルチステージビルドまで        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-from-basics-to-multi-stage-builds-389193'>チャレンジを開始</a> |
-|             12 | 📖 Docker ネットワーキングの基礎           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-networking-basics-389048'>ラボを開始</a>                |
-|             13 | 📖 Docker ネットワークに深く突き入る       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-dive-into-docker-networking-389047'>ラボを開始</a>             |
-|             14 | 🎯 Docker ネットワークプレイグラウンド     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-network-playground-389054'>チャレンジを開始</a>         |
-|             15 | 📖 Docker ボリュームの操作方法             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-working-with-docker-volumes-389189'>ラボを開始</a>             |
-|             16 | 🎯 Docker ボリュームのマウント             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-volume-mounting-389116'>チャレンジを開始</a>            |
+|             01 | 📖 あなたの初めての Docker 実験            | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-your-first-docker-lab-92719'>ラボを開始</a>                    |
+|             02 | 🎯 最初のコンテナを実行する                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-run-your-first-container-388943'>チャレンジを開始</a>          |
+|             03 | 📖 Docker イメージの操作方法               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-working-with-docker-images-388939'>ラボを開始</a>              |
+|             04 | 🎯 Docker のクジラに話させる               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-make-a-docker-whale-speak-388948'>チャレンジを開始</a>         |
+|             05 | 📖 コンテナに関する詳細な考察              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-diving-deeper-into-containers-388951'>ラボを開始</a>           |
+|             06 | 📖 Docker Run コマンドのパラメータ         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-run-command-parameters-389228'>ラボを開始</a>           |
+|             07 | 🎯 コンテナのアクセスと管理                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-access-and-manage-containers-389192'>チャレンジを開始</a>      |
+|             08 | 📖 カスタム Docker イメージ                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-custom-docker-images-389185'>ラボを開始</a>                    |
+|             09 | 🎯 Docker のクジラの言語をカスタマイズする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-customize-docker-whale-s-language-389015'>チャレンジを開始</a> |
+|             10 | 📖 高度な Dockerfile の技術                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-advanced-dockerfile-techniques-389027'>ラボを開始</a>          |
+|             11 | 🎯 基本からマルチステージビルドまで        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-from-basics-to-multi-stage-builds-389193'>チャレンジを開始</a> |
+|             12 | 📖 Docker ネットワーキングの基礎           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-networking-basics-389048'>ラボを開始</a>                |
+|             13 | 📖 Docker ネットワークに深く突き入る       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-dive-into-docker-networking-389047'>ラボを開始</a>             |
+|             14 | 🎯 Docker ネットワークプレイグラウンド     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-network-playground-389054'>チャレンジを開始</a>         |
+|             15 | 📖 Docker ボリュームの操作方法             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-working-with-docker-volumes-389189'>ラボを開始</a>             |
+|             16 | 🎯 Docker ボリュームのマウント             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/docker-docker-volume-mounting-389116'>チャレンジを開始</a>            |
 
 ## その他
 
-- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- 🔗 [Docker プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Docker 無料チュートリアル](https://github.com/labex-labs/docker-free-tutorials)
 
