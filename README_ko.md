@@ -31,26 +31,26 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                              | 난이도   | 연습                                                                                                                  |
 |----------|-----------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 첫 번째 Docker 랩              | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-your-first-docker-lab-92719'>실습 시작</a>              |
-|       02 | 🎯 첫 번째 컨테이너 실행          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-run-your-first-container-388943'>도전 시작</a>          |
-|       03 | 📖 Docker 이미지 사용법           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-working-with-docker-images-388939'>실습 시작</a>        |
-|       04 | 🎯 Docker 고래 말하기 챌린지      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-make-a-docker-whale-speak-388948'>도전 시작</a>         |
-|       05 | 📖 컨테이너 심층 탐구             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-diving-deeper-into-containers-388951'>실습 시작</a>     |
-|       06 | 📖 Docker Run 명령어 매개변수     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-run-command-parameters-389228'>실습 시작</a>     |
-|       07 | 🎯 컨테이너 접근 및 관리          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-access-and-manage-containers-389192'>도전 시작</a>      |
-|       08 | 📖 맞춤형 Docker 이미지           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-custom-docker-images-389185'>실습 시작</a>              |
-|       09 | 🎯 Docker 고래 언어 사용자 정의   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-customize-docker-whale-s-language-389015'>도전 시작</a> |
-|       10 | 📖 고급 Dockerfile 기술           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-advanced-dockerfile-techniques-389027'>실습 시작</a>    |
-|       11 | 🎯 기초부터 다단계 빌드까지       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-from-basics-to-multi-stage-builds-389193'>도전 시작</a> |
-|       12 | 📖 Docker 네트워킹 기본 사항      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-networking-basics-389048'>실습 시작</a>          |
-|       13 | 📖 Docker 네트워킹 완전 정복      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-dive-into-docker-networking-389047'>실습 시작</a>       |
-|       14 | 🎯 Docker 네트워크 플레이그라운드 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-network-playground-389054'>도전 시작</a>         |
-|       15 | 📖 Docker 볼륨 사용하기           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-working-with-docker-volumes-389189'>실습 시작</a>       |
-|       16 | 🎯 Docker 볼륨 마운팅             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-volume-mounting-389116'>도전 시작</a>            |
+|       01 | 📖 첫 번째 Docker 랩              | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-your-first-docker-lab-92719'>실습 시작</a>              |
+|       02 | 🎯 첫 번째 컨테이너 실행          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-run-your-first-container-388943'>도전 시작</a>          |
+|       03 | 📖 Docker 이미지 사용법           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-working-with-docker-images-388939'>실습 시작</a>        |
+|       04 | 🎯 Docker 고래 말하기 챌린지      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-make-a-docker-whale-speak-388948'>도전 시작</a>         |
+|       05 | 📖 컨테이너 심층 탐구             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-diving-deeper-into-containers-388951'>실습 시작</a>     |
+|       06 | 📖 Docker Run 명령어 매개변수     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-run-command-parameters-389228'>실습 시작</a>     |
+|       07 | 🎯 컨테이너 접근 및 관리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-access-and-manage-containers-389192'>도전 시작</a>      |
+|       08 | 📖 맞춤형 Docker 이미지           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-custom-docker-images-389185'>실습 시작</a>              |
+|       09 | 🎯 Docker 고래 언어 사용자 정의   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-customize-docker-whale-s-language-389015'>도전 시작</a> |
+|       10 | 📖 고급 Dockerfile 기술           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-advanced-dockerfile-techniques-389027'>실습 시작</a>    |
+|       11 | 🎯 기초부터 다단계 빌드까지       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-from-basics-to-multi-stage-builds-389193'>도전 시작</a> |
+|       12 | 📖 Docker 네트워킹 기본 사항      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-networking-basics-389048'>실습 시작</a>          |
+|       13 | 📖 Docker 네트워킹 완전 정복      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-dive-into-docker-networking-389047'>실습 시작</a>       |
+|       14 | 🎯 Docker 네트워크 플레이그라운드 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-network-playground-389054'>도전 시작</a>         |
+|       15 | 📖 Docker 볼륨 사용하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-working-with-docker-volumes-389189'>실습 시작</a>       |
+|       16 | 🎯 Docker 볼륨 마운팅             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/docker-docker-volume-mounting-389116'>도전 시작</a>            |
 
 ## 더 보기
 
-- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- 🔗 [Docker 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Docker 무료 튜토리얼](https://github.com/labex-labs/docker-free-tutorials)
 
