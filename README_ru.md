@@ -31,26 +31,26 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                   | Сложность   | Практика                                                                                                                     |
 |----------|--------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Ваша первая Docker-лабораторная работа  | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-your-first-docker-lab-92719'>Начать Лабораторию</a>            |
-|       02 | 🎯 Запустите свой первый контейнер         | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-run-your-first-container-388943'>Начать Испытание</a>          |
-|       03 | 📖 Работа с Docker-образами                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-working-with-docker-images-388939'>Начать Лабораторию</a>      |
-|       04 | 🎯 Сделать Docker-кита говорить            | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-make-a-docker-whale-speak-388948'>Начать Испытание</a>         |
-|       05 | 📖 Глубокое погружение в контейнеры        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-diving-deeper-into-containers-388951'>Начать Лабораторию</a>   |
-|       06 | 📖 Параметры команды Docker Run            | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-run-command-parameters-389228'>Начать Лабораторию</a>   |
-|       07 | 🎯 Доступ и управление контейнерами        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-access-and-manage-containers-389192'>Начать Испытание</a>      |
-|       08 | 📖 Пользовательские Docker-образы          | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-custom-docker-images-389185'>Начать Лабораторию</a>            |
-|       09 | 🎯 Настройка языка Docker-кита             | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-customize-docker-whale-s-language-389015'>Начать Испытание</a> |
-|       10 | 📖 Продвинутые техники создания Dockerfile | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-advanced-dockerfile-techniques-389027'>Начать Лабораторию</a>  |
-|       11 | 🎯 От основ до многостадийных сборок       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-from-basics-to-multi-stage-builds-389193'>Начать Испытание</a> |
-|       12 | 📖 Основы сетевого взаимодействия в Docker | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-networking-basics-389048'>Начать Лабораторию</a>        |
-|       13 | 📖 Глубокое погружение в сети Docker       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-dive-into-docker-networking-389047'>Начать Лабораторию</a>     |
-|       14 | 🎯 Песочница для сетей Docker              | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-network-playground-389054'>Начать Испытание</a>         |
-|       15 | 📖 Работа с томами Docker (Volumes)        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-working-with-docker-volumes-389189'>Начать Лабораторию</a>     |
-|       16 | 🎯 Монтирование Docker-томов               | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-volume-mounting-389116'>Начать Испытание</a>            |
+|       01 | 📖 Ваша первая Docker-лабораторная работа  | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/docker-your-first-docker-lab-92719'>Начать Лабораторию</a>            |
+|       02 | 🎯 Запустите свой первый контейнер         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-run-your-first-container-388943'>Начать Испытание</a>          |
+|       03 | 📖 Работа с Docker-образами                | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-working-with-docker-images-388939'>Начать Лабораторию</a>      |
+|       04 | 🎯 Сделать Docker-кита говорить            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-make-a-docker-whale-speak-388948'>Начать Испытание</a>         |
+|       05 | 📖 Глубокое погружение в контейнеры        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-diving-deeper-into-containers-388951'>Начать Лабораторию</a>   |
+|       06 | 📖 Параметры команды Docker Run            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-run-command-parameters-389228'>Начать Лабораторию</a>   |
+|       07 | 🎯 Доступ и управление контейнерами        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-access-and-manage-containers-389192'>Начать Испытание</a>      |
+|       08 | 📖 Пользовательские Docker-образы          | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-custom-docker-images-389185'>Начать Лабораторию</a>            |
+|       09 | 🎯 Настройка языка Docker-кита             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-customize-docker-whale-s-language-389015'>Начать Испытание</a> |
+|       10 | 📖 Продвинутые техники создания Dockerfile | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-advanced-dockerfile-techniques-389027'>Начать Лабораторию</a>  |
+|       11 | 🎯 От основ до многостадийных сборок       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-from-basics-to-multi-stage-builds-389193'>Начать Испытание</a> |
+|       12 | 📖 Основы сетевого взаимодействия в Docker | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-networking-basics-389048'>Начать Лабораторию</a>        |
+|       13 | 📖 Глубокое погружение в сети Docker       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-dive-into-docker-networking-389047'>Начать Лабораторию</a>     |
+|       14 | 🎯 Песочница для сетей Docker              | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-network-playground-389054'>Начать Испытание</a>         |
+|       15 | 📖 Работа с томами Docker (Volumes)        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-working-with-docker-volumes-389189'>Начать Лабораторию</a>     |
+|       16 | 🎯 Монтирование Docker-томов               | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/docker-docker-volume-mounting-389116'>Начать Испытание</a>            |
 
 ## Больше
 
-- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- 🔗 [Docker Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Docker Бесплатные туториалы](https://github.com/labex-labs/docker-free-tutorials)
 
