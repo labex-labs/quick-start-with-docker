@@ -25,32 +25,32 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                        | 难度   | 练习                                                                                                                 |
 |--------|-----------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 你的第一个 Docker 实验   | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-your-first-docker-lab-92719'>开始实验</a>              |
-|     02 | 🎯 运行你的第一个容器       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-run-your-first-container-388943'>开始挑战</a>          |
-|     03 | 📖 使用 Docker 镜像         | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-working-with-docker-images-388939'>开始实验</a>        |
-|     04 | 🎯 让 Docker 鲸鱼说话       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-make-a-docker-whale-speak-388948'>开始挑战</a>         |
-|     05 | 📖 深入探索容器技术         | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-diving-deeper-into-containers-388951'>开始实验</a>     |
-|     06 | 📖 Docker Run 命令参数      | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-run-command-parameters-389228'>开始实验</a>     |
-|     07 | 🎯 访问和管理容器           | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-access-and-manage-containers-389192'>开始挑战</a>      |
-|     08 | 📖 自定义 Docker 镜像       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-custom-docker-images-389185'>开始实验</a>              |
-|     09 | 🎯 自定义 Docker 鲸鱼的语言 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-customize-docker-whale-s-language-389015'>开始挑战</a> |
-|     10 | 📖 高级 Dockerfile 技术     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-advanced-dockerfile-techniques-389027'>开始实验</a>    |
-|     11 | 🎯 从基础到多阶段构建       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-from-basics-to-multi-stage-builds-389193'>开始挑战</a> |
-|     12 | 📖 Docker 网络基础          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-networking-basics-389048'>开始实验</a>          |
-|     13 | 📖 深入 Docker 网络         | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-dive-into-docker-networking-389047'>开始实验</a>       |
-|     14 | 🎯 Docker 网络实验场        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-network-playground-389054'>开始挑战</a>         |
-|     15 | 📖 使用 Docker 卷           | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-working-with-docker-volumes-389189'>开始实验</a>       |
-|     16 | 🎯 Docker 卷挂载            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-volume-mounting-389116'>开始挑战</a>            |
+|     01 | 📖 你的第一个 Docker 实验   | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-your-first-docker-lab-92719'>开始实验</a>              |
+|     02 | 🎯 运行你的第一个容器       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-run-your-first-container-388943'>开始挑战</a>          |
+|     03 | 📖 使用 Docker 镜像         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-working-with-docker-images-388939'>开始实验</a>        |
+|     04 | 🎯 让 Docker 鲸鱼说话       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-make-a-docker-whale-speak-388948'>开始挑战</a>         |
+|     05 | 📖 深入探索容器技术         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-diving-deeper-into-containers-388951'>开始实验</a>     |
+|     06 | 📖 Docker Run 命令参数      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-run-command-parameters-389228'>开始实验</a>     |
+|     07 | 🎯 访问和管理容器           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-access-and-manage-containers-389192'>开始挑战</a>      |
+|     08 | 📖 自定义 Docker 镜像       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-custom-docker-images-389185'>开始实验</a>              |
+|     09 | 🎯 自定义 Docker 鲸鱼的语言 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-customize-docker-whale-s-language-389015'>开始挑战</a> |
+|     10 | 📖 高级 Dockerfile 技术     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-advanced-dockerfile-techniques-389027'>开始实验</a>    |
+|     11 | 🎯 从基础到多阶段构建       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-from-basics-to-multi-stage-builds-389193'>开始挑战</a> |
+|     12 | 📖 Docker 网络基础          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-networking-basics-389048'>开始实验</a>          |
+|     13 | 📖 深入 Docker 网络         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-dive-into-docker-networking-389047'>开始实验</a>       |
+|     14 | 🎯 Docker 网络实验场        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-network-playground-389054'>开始挑战</a>         |
+|     15 | 📖 使用 Docker 卷           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-working-with-docker-volumes-389189'>开始实验</a>       |
+|     16 | 🎯 Docker 卷挂载            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/docker-docker-volume-mounting-389116'>开始挑战</a>            |
 
 ## 更多
 
-- 🔗 [Docker Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Docker Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- 🔗 [Docker 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Docker 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Docker 免费教程](https://github.com/labex-labs/docker-free-tutorials)
 
